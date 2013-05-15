@@ -1,6 +1,5 @@
 Superman Theme
 ==============
-
-This theme was inspired by http://www.github.com/tristen/superman, a vim theme
+A theme for Sublime Text 2
 <br/>
-This a Sublime Text 2 port of that theme
+&bull; inspired by <a href="http://www.github.com/tristen">@Tristen's</a> <a href="http://www.github.com/tristen/superman">Superman</a> theme for vim
